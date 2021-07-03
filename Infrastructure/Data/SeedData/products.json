@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "Café instantáneo Espresso 100g",
+    "Description": "Café Nescafé Fina Selección Espresso frasco, granos de Arábica cuidadosamente seleccionados, que brindan un café de alta intensidad y delicada espuma. Formato 100 g.",
+    "Price": 5490,
+    "PictureUrl": "images/products/Nescafe-Cafe-instantaneo-Espresso-100g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Café molido clásico 250 g",
+    "Description": "Seleccionados granos de café Arábica provenientes de Brasil y Colombia, combinados con café Robusta. Ofrece un sabor intenso y duradero. Se sugiere usar 1 cuchara sopera por cada 100 ml de agua filtrada. Mantener en un lugar fresco y seco a temperatura ambiente.",
+    "Price": 3990,
+    "PictureUrl": "images/products/Caribe-Cafe-molido-clasico-250-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Café grano fuerte volcán 250 g",
+    "Description": "Café premium 100% colombiano. Posee un sabor profundo y es preferido por los amantes de las sensaciones perdurables. Ideal para disfrutar en la preparación de un espresso. De aroma muy pronunciado y aromático, una acidez baja y cuerpo alto.",
+    "Price": 8990,
+    "PictureUrl": "images/products/Juan-Valdez-Cafe-grano-fuerte-volcan-250-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Café soluble liofilizado clásico 190 g",
+    "Description": "Café premium 100% colombiano. Disfruta el aroma y sabor de una excelente taza de café recién tostado y molido. Disfrútalo como prefieras, disuélvelo en agua o leche fría y/o caliente. Café 100% arábigo de Colombia.",
+    "Price": 18990,
+    "PictureUrl": "images/products/Juan-Valdez-Cafe-soluble-liofilizado-clasico-190-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Café orgánico molido One Love 227 g",
+    "Description": "Un café de grano arábica y un origen 100% de Etiopía. One Love presenta aromas a limón, bergamota, coco y notas a jazmín, dando como resultado una mezcla exótica muy revitalizante. Producto orgánico.",
+    "Price": 9490,
+    "PictureUrl": "images/products/Marley-Coffee-Cafe-organico-molido-One-Love-227-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Café molido super moka 3 bolsa 250 g",
+    "Description": "Aroma intenso, achocolatado, poderoso cuerpo, equilibrado en su textura, y cremoso. Tostado tipo italiano.",
+    "Price": 3190,
+    "PictureUrl": "images/products/Haiti-Cafe-molido-super-moka-3-bolsa-250-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Café tarro qualita rossa 250 g",
+    "Description": "Una mezcla única de granos Robusta y Arábica con un sabor aromático, suave y redondo. Un café versátil, magnífico con o sin leche.",
+    "Price": 8390,
+    "PictureUrl": "images/products/Lavazza-Cafe-tarro-qualita-rossa-250g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Café tradición frasco 170 g",
+    "Description": "Café Nescafé Tradición, el café de todos los días, en una cómoda presentación para llevar contigo a todas partes. Formato 170 g.",
+    "Price": 4290,
+    "PictureUrl": "images/products/Nescafe-Cafe-tradicion-frasco-170-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Café orgánico molido Lively Up 227 g",
+    "Description": "Un café que enciende cuerpo y alma con su intenso sabor tostado. Presenta aromas a vainilla, nueces moscadas con notas de chocolate y cítricas. Una gran oportunidad para disfrutar con tus seres queridos.",
+    "Price": 9490,
+    "PictureUrl": "images/products/Marley-Coffee-Cafe-organico-molido-Lively-Up-227-g.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Café Doble Choca Moka 8 unid. 23 g c/u",
+    "Description": "Prueba Nescafé Moka, una deliciosa mezcla de café, leche descremada, azúcar y sabor a chocolate. La espuma es uno de los factores más importantes a la hora de preparar un buen café, y Nescafé Capuccino tiene la mejor receta para darte el más rico sabor, espuma y cremosidad.",
+    "Price": 2890,
+    "PictureUrl": "images/products/Nescafe-Cafe-Doble-Choca-Moka-8-unid-23-g-c-u.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Té Negro Emblem Tea Ceylon Blend Original 100 bolsas",
+    "Description": "El té negro de Emblem, es una infusión atrayente, de color ámbar, con cuerpo, un sabor intenso, estimulante, que activa tu cuerpo ya que tiene Teína y a comparación del café o las bebidas energéticas éste no sobre estimula el corazón, al contrario, hace que la sangre fluya de mejor manera a nuestro cerebro.",
+    "Price": 2090,
+    "PictureUrl": "images/products/Emblem-Te-Negro-Emblem-Tea-Ceylon-Blend-Original-100-bolsas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Té english breakfast 50 bolsitas",
+    "Description": "Una de las mezclas más tradicionales de té negro, creada para acompañar tus desayunos, debido a su gran cuerpo. Es perfecto para entregar la energía necesaria para comenzar las mañanas y energizar tus días. Un té robusto rico y satisfactorio, que mezcla té negro de Kenia, Ceylón y Assam.",
+    "Price": 5390,
+    "PictureUrl": "images/products/Twinings-Te-english-breakfast-50-bolsitas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Té verde 25 bolsas caja 50 g",
+    "Description": "Una tendencia que comenzó en el lejano Oriente, son ahora una opción para los consumidores sedientos de todo el mundo.",
+    "Price": 2290,
+    "PictureUrl": "images/products/Akbar-Te-verde-25-bolsas-caja-50-g.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Té Ceylán caja 165 g 100 bolsas",
+    "Description": "Tu té favorito. Dilmah sabe que amas el té, es por esto que lo produce bajo los mejores entandares y te lo lleva directamente a tu hogar.",
+    "Price": 3990,
+    "PictureUrl": "images/products/Dilmah-Te-Ceylan-caja-165-g-100-bolsas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Té Twinings Caja 10 unid, Indian Chai",
+    "Description": "El Indian Chai es una mezcla de tés negros, con un toque de jengibre, canela, clavo de olor y cardamomo.",
+    "Price": 2250,
+    "PictureUrl": "images/products/Twinings-Te-Twinings-caja-10-unid-Indian-Chai.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Té ceylán negro 100 bolsas caja 200 g",
+    "Description": "Sabores clásicos, selección minuciosa de los mejores conocedores del té, todos con ese toque especial de Akbar.",
+    "Price": 7190,
+    "PictureUrl": "images/products/Akbar-Te-ceylan-negro-100-bolsas-caja-200-g.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Té mystic ceylán 50 bolsitas",
+    "Description": "Exquisito Blend de Té Ceylan (Sri Lanka), de sabor y aroma balanceado ideal para disfrutar en todo momento",
+    "Price": 1790,
+    "PictureUrl": "images/products/Supremo-Te-mystic-ceylan-50-bolsitas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Té mango y coco caja 18 bolsas 35 g",
+    "Description": "Su planta de fabricación de té está ubicada en el corazón de Sri Lanka, lo que les permite confiar en tradiciones ancestrales que, durante siglos, han producido los mejores tés del mundo.",
+    "Price": 2999,
+    "PictureUrl": "images/products/Stash-Te-mango-y-coco-caja-18-bolsas-35-g.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Té negro yellow label 50 bolsitas",
+    "Description": "Lipton Yellow Label es un blend de té negro desarrollado por sommeliers con diversas hojas de té que provienen de los más exclusivos orígenes para lograr un irresistible sabor y aroma. Tiene un sabor delicado con ligeras notas de madera.",
+    "Price": 1950,
+    "PictureUrl": "images/products/Lipton-Te-negro-yellow-label-50-bolsitas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Té Dilmah earl grey, 50 bolsitas",
+    "Description": "La leyenda del Té Earl Grey habla de política e intrigas. Cuando un diplomático británico salvó la vida de un oficial de la corte del Imperio Chino, se le dio a Carlos, 2º Conde (Earl) de Grey y también entonces Primer Ministro de Inglaterra, junto a su receta, un té con la cáscara de una variedad especial de naranja. El té, que empezó a ser conocido como Earl Grey Tea, combina té con el aroma de la bergamota. Este té Earl Grey original ofrece una rica y fuerte infusión enriquecida con aceite de bergamota. Es un sabor único y diferente.",
+    "Price": 4790,
+    "PictureUrl": "images/products/Dilmah-Te-Dilmah-earl-grey-50-bolsitas.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Infusión de menta Twinings 17.5 g",
+    "Description": "Infusión de hojas más aromáticas de menta pura, para brindar una experiencia fresca y vigorizante con cada sorbo.",
+    "Price": 2250,
+    "PictureUrl": "images/products/Twinings-Infusion-menta-17-5-g.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Infusión de frutos rojos 10 bolsitas",
+    "Description": "Infusión de mezcla de flores, frutos rojos y aroma a frutos rojos. Perfecto para iniciar tu día con un rico té.",
+    "Price": 1250,
+    "PictureUrl": "images/products/Lipton-Infusion-frutos-rojos-10-bolsitas.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Yerba mate Taragüi 1 kg, con palo",
+    "Description": "De sabor intenso y genuino, representa las cualidades de la auténtica yerba mate. Posee un blend impecable y noble, por su armonía entre cuerpo, aroma y madurez. Ahora es posible disfrutar esta infusión natural y llena de beneficios en todo el mundo.",
+    "Price": 5990,
+    "PictureUrl": "images/products/Taragui-yerba-mate-taragui-1-kg-con-palo.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Infusión buen descanso Supremo 20 g, 20 bolsitas",
+    "Description": "Compuesta por: Toronjil, Romero Castilla y Poleo. Siguiendo las tendencias mundiales en cuanto a la preocupación por la salud y el bienestar, Supremo ha desarrollado una novedosa y exclusiva línea de infusiones benéficas. Nuestra línea infusiones de hierbas ha sido obtenida cuidando rigurosamente cada etapa de su elaboración, para obtener una bebida de calidad, reconfortante y saludable. ",
+    "Price": 1660,
+    "PictureUrl": "images/products/Supremo-Infusion-buen-descanso-supremo-20-g-20-bolsitas.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Infusión Twinings 10 Bolsitas, Wild Berries",
+    "Description": "Infusión de Té Wild Berries. Una combinación única de frutos rojos que le dan un sabor intenso y refrescante. Para disfrutar fría o caliente y en cualquier momento del día.",
+    "Price": 2250,
+    "PictureUrl": "images/products/Twinings-infusion-twinings-10-bolsitas-wild-berries.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Yerba mate Taragüi 500 g, cítricos del litoral",
+    "Description": "Yerba mate saborizada con naranja, mandarina y pomelo. El sabor original de Taragüi con un toque de las más sabrosas naranjas, mandarinas y pomelos del Litoral de Argentina.",
+    "Price": 4290,
+    "PictureUrl": "images/products/Taragui-yerba-mate-taragui-500-g-citricos-del-litoral.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Hierbas jenjibre y limón Supremo 20 bolsitas",
+    "Description": "Infusión que mezcla todo el sabor y propiedades del jengibre y limón. Dentro de los beneficios de esta infusión podemos destacar que es un fuerte antioxidante, es buena para el estómago, alivia el resfriado y tiene propiedades antiinflamatorias.",
+    "Price": 1180,
+    "PictureUrl": "images/products/Supremo-Hierbas-jenjibre-y-limon-Supremo-20-bolsitas.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Hierba manzanilla caja 20 g 20 bolsitas",
+    "Description": "Hierba aromática inconfundible por su aroma. Es una de las hierbas preferidas por nuestros consumidores. Nuestra manzanilla es elaborada en base a polen y flor de manzanilla cuidadosamente seleccionadas. Posee propiedades antiespasmódicas y sedantes.",
+    "Price": 850,
+    "PictureUrl": "images/products/Supremo-Hierba-manzanilla-caja-20-g-20-bolsitas.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Hierbas Surtidas Supremo Caja 20.4 g, 20 Bolsitas",
+    "Description": "Surtido ideal para poder contar con una selección de diferentes hierbas para cualquier momento del día y necesidad. La misma calidad de siempre en la comodidad de un empaque surtido. ",
+    "Price": 850,
+    "PictureUrl": "images/products/Supremo-Hierbas-Surtidas-Supremo-Caja-204-g-20-Bolsitas.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Yerba mate 500 g",
+    "Description": "Conserva tu energía cada día con la refrescante Yerba Mate de Supremo. Un producto de las mejores plantaciones de Brasil.",
+    "Price": 2890,
+    "PictureUrl": "images/products/Supremo-Yerba-mate-500-g.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  }
+]

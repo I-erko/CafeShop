@@ -1,0 +1,20 @@
+<div class="bg-light px-4 text-uppercase font-weight-bold" style="padding: 1.20em;;">
+    Resumen de Orden
+</div>
+<div class="p-4">
+    <p class="font-italic mb-4">Los costos de envío se agregarán según las elecciones realizadas durante el pago</p>
+    <ul class="list-unstyled mb-4">
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Subtotal de la Orden</strong>
+            <strong>{{subtotal | currency}}</strong>
+        </li>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Envío</strong>
+            <strong>{{shippingPrice | currency}}</strong>
+        </li>        
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Total</strong>
+            <strong>{{total | currency}}</strong>
+        </li>
+    </ul>
+</div>
