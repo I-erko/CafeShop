@@ -1,5 +1,3 @@
-using System;
-
 namespace API.Errors
 {
     public class ApiResponse
@@ -19,6 +17,7 @@ namespace API.Errors
             {
                 400 => "Una mala solicitud, has hecho",
                 401 => "Autorizado, no estás",
+                403 => "Prohibido hacer esto, estás",
                 404 => "Recurso encontrado, no fue",
                 500 => "Los errores son el camino hacia el lado oscuro. Los errores conducen a la ira. La ira lleva al odio. El odio conduce a un cambio de carrera.",
                 _ => null
