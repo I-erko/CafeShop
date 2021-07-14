@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import {NgxGalleryAnimation, NgxGalleryImage, NgxGalleryImageSize, NgxGalleryOptions} from '@kolkov/ngx-gallery';
 import { BasketService } from 'src/app/basket/basket.service';
 import { IProduct } from 'src/app/shared/models/product';
 import { BreadcrumbService } from 'xng-breadcrumb';
@@ -13,6 +14,8 @@ import { ShopService } from '../shop.service';
 export class ProductDetailsComponent implements OnInit {
   product: IProduct;
   quantity = 1;
+  galleryOptions: NgxGalleryOptions[];
+  galleryImages: NgxGalleryImage[];
 
   constructor(
     private shopService: ShopService,
@@ -25,6 +28,34 @@ export class ProductDetailsComponent implements OnInit {
 
   ngOnInit(): void {
     this.loadProduct();
+  }
+
+  initializeGallery(): any {
+    this.galleryOptions = [{
+      width: '500px',
+      height: '600px',
+      imagePercent: 100,
+      thumbnailsColumns: 4,
+      imageAnimation: NgxGalleryAnimation.Fade,
+      imageSize: NgxGalleryImageSize.Contain,
+      thumbnailSize: NgxGalleryImageSize.Contain,
+      preview: false
+    }];
+
+    this.galleryImages = this.getImages();
+  }
+
+  getImages(): any {
+    const imageUrls = [];
+    for (const photo of this.product.photos) {
+      imageUrls.push({
+        small: photo.pictureUrl,
+        medium: photo.pictureUrl,
+        big: photo.pictureUrl,
+      });
+    }
+
+    return imageUrls;
   }
 
   addItemToBasket(): void {
@@ -44,10 +75,10 @@ export class ProductDetailsComponent implements OnInit {
   loadProduct(): void {
     this.shopService
       .getProduct(+this.activateRoute.snapshot.paramMap.get('id'))
-      .subscribe(
-        (product) => {
+      .subscribe((product) => {
           this.product = product;
           this.bcService.set('@productDetails', product.name);
+          this.initializeGallery();
         },
         (error) => {
           console.log(error);
