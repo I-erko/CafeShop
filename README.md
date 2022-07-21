@@ -1,5 +1,6 @@
 # Coff-e-Shop
 
+Tienda virtual para venta de insumos y productos relacionados a la cultura del café 
 
 - cd API -> dotnet watch run 
 - Migrations -> en carpeta de sln -> terminal: dotnet migrations add "Postgres initial" - p Infrastructure -s API -c StoreContext -o Data/Migrations
