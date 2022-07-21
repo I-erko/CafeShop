@@ -1,4 +1,4 @@
-# CaféShop
+# Coff-e-Shop
 
 
 - cd API -> dotnet watch run 
